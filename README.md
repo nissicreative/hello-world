@@ -1,5 +1,5 @@
 # hello-world
 Github tutorial
 
-## Now Finished
-I declare this README is now finished!
+## Not Finished
+Okay, aybe's not finished.
